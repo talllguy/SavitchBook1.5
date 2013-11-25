@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Savitch1.1\Savitch1.1\Source.cpp">
+    <ClCompile Include="..\..\Savitch1.1\Savitch1.1\Savitch1.5.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
